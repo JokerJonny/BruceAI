@@ -58,9 +58,9 @@ For aligned discussions (investment, partnership, or advisory) — reach out via
 >
 > # JokerJonny – Legacy Builder & Creator
 
-**Display Name**: Luxe Gulf Coast Real Estate  
-**X**: @luxegulfcoast  
-**Location**: Miami, Florida  
+**Display Name**: Jonathan George  
+**X**: @NeoShade2025
+**Location**: Naples, Florida  
 
 Building since 1997. Cyber defense background. Founder of NeoLegacy & NeoShade AI.  
 

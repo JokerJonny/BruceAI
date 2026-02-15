@@ -77,3 +77,17 @@ It is built for depth, alignment, and permanence.
 1. Clone for personal/family use only  
    ```bash
    git clone https://github.com/JokerJonny/BruceAI.git
+## Legacy Music Generator
+
+`music_legacy_generator.py`  
+Offline-first tool that uses your neoSHADE-tuned Mistral persona (via Ollama) to:
+
+- Generate high-quality Suno prompts (positive, Jung/Peterson arcs, real-life stories)
+- (Optionally) call Suno API to create music
+- Produce simple visualizer videos with FFmpeg
+- Archive everything securely in `./legacy_vault/`
+
+**Run it**:
+```bash
+python3 music_legacy_generator.py
+   

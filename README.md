@@ -55,6 +55,45 @@ For aligned discussions (investment, partnership, or advisory) — reach out via
 
 > BruceAI is built for depth, not scale.  
 > But depth can become scale when the timing and alignment are right.
+>
+> # JokerJonny – Legacy Builder & Creator
+
+**Display Name**: Luxe Gulf Coast Real Estate  
+**X**: @luxegulfcoast  
+**Location**: Miami, Florida  
+
+Building since 1997. Cyber defense background. Founder of NeoLegacy & NeoShade AI.  
+
+Creating original music (1400+ songs, 100+ albums), offline AI systems, and conscience-aligned tools — all for personal truth, family legacy, and human values preservation.
+
+### Main Projects
+- **BruceAI** → https://github.com/JokerJonny/BruceAI  
+  Conscience-aligned offline AI guardian for legacy preservation. Includes music generation tools, ethical guardrails, and secure vault concepts.
+
+- **NeoShade Music** → (link your music site / channel when ready)  
+  1400+ original tracks across genres (reggae, rock, jazz, acoustic, cinematic, hip-hop). Full ownership. Positive, transparent, motivational lyrics inspired by Jung, Peterson, real-life arcs.
+
+### Philosophy
+Everything I build is:
+- 100% owner-controlled (masters, code, data)
+- Privacy-first & offline-capable
+- Non-exploitative (no AI training, no surveillance, no behavioral manipulation)
+- Protected under custom licenses (non-commercial, conscience-aligned)
+
+### Current Focus
+- Offline LLM persona (Mistral on Raspberry Pi)  
+- Music legacy generator (Suno prompts + visualizers)  
+- Encrypted personal vaults for family heirlooms  
+- Ethical AI that protects — never exploits
+
+### Contact
+- X: @luxegulfcoast  
+- For aligned discussions (investment, collab, advisory): DM or reach out.
+
+> Depth over scale. Truth over trend. Legacy over liquidity.
+
+© 2025–2026 Jonathan M. George (JokerJonny)  
+All projects protected under custom licenses — see individual repos.
 
 © 2025–2026 Jonathan M. George  
 All rights reserved under BruceAI Custom License.

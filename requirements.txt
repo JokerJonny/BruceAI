@@ -1,0 +1,12 @@
+# requirements.txt
+# Dependencies for music_legacy_generator.py and BruceAI extensions
+# Install with: pip install -r requirements.txt
+
+# Core LLM interaction (Ollama wrapper)
+ollama>=0.3.0
+
+# LangChain community package (for Ollama integration)
+langchain-community>=0.2.0
+
+# HTTP requests for Suno API calls
+requests>=2.31.0

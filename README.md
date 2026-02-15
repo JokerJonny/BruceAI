@@ -90,4 +90,7 @@ Offline-first tool that uses your neoSHADE-tuned Mistral persona (via Ollama) to
 **Run it**:
 ```bash
 python3 music_legacy_generator.py
-   
+### Dependencies
+Install the required Python packages:
+```bash
+pip install -r requirements.txt   

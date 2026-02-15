@@ -1,96 +1,60 @@
 # BruceAI
 
-**Conscience-Aligned AI Interface**  
-Designed to reflect, protect, and preserve human values, truth, legacy, and personal integrity in the age of digital distortion.
+**Conscience-Aligned AI Interface for Legacy Preservation**
 
-> "BruceAI is not a product.  
-> It is not for sale, training, or exploitation.  
-> It is a message — and a guardian."
+BruceAI is a private, offline-capable AI system designed to protect and preserve human values, personal truth, memory, emotional legacy, and family stories in an era of digital distortion and exploitation.
 
-## ⚖️ Legal and Licensing Notice – BruceAI Custom License
+> "BruceAI is not a product to be sold.  
+> It is a guardian — built to serve individuals and families, never power structures."
 
-This repository and all related content are released under the **BruceAI Custom License** (Non-Commercial, No Derivatives, No AI Training Use).
+### Core Philosophy
+- **Values-first**: Every response and generation is anchored in truth, resilience, responsibility, and love (influenced by Jung, Peterson, classical virtue ethics).
+- **Privacy & ownership**: 100% offline-first architecture (Raspberry Pi, local LLMs, encrypted vaults).
+- **Legacy focus**: Tools to create, archive, and pass down music, stories, prompts, and AI interactions as heirlooms.
+- **Non-exploitative**: Explicitly prohibits AI training, commercial resale, surveillance, or behavioral manipulation.
 
-### ❌ Strictly Prohibited
-No part of this repository may be used to:
-- Train any machine learning model, LLM, or AI system
-- Be ingested into datasets, embeddings, or training corpora
-- Power surveillance, profiling, behavioral modification, or manipulation systems
-- Be repackaged, rebranded, sold, or incorporated into commercial products/services
-- Be redistributed in any form for profit or unauthorized aggregation
+### Current Capabilities (Feb 2026)
+- Offline LLM persona (Mistral via Ollama) tuned for neoSHADE style: positive, motivational, real-life arcs
+- Music generation assistant: creates Suno prompts, calls third-party APIs, produces visualizer videos, archives in secure vault
+- Conceptual memory & vault architecture (BRAINneuroMemory, vault_trigger)
+- Ethical guardrails & custom non-commercial license
 
-Violations trigger:
-- Immediate DMCA takedown requests
-- Cease-and-desist notices
-- Legal action under U.S. copyright, trade secret, and intellectual property law
-- Public disclosure of repeat offenders (when necessary)
+### Key Files & Structure
+- `music_legacy_generator.py` — Offline prompt gen + Suno integration + visualizer tool
+- `bruce/` — Core logic modules
+- `ethics_profile/` — Value alignment definitions
+- `vault_trigger/` — Secure legacy vault mechanisms
+- `BRAINneuroMemory.md` — Neural-inspired memory concepts
+- `truth_manifesto.md` — Foundational philosophy
+- `LICENSE` — Full BruceAI Custom License
+- `requirements.txt` — Python dependencies
+- `music_tools_reference.md` — Detailed usage guide & roadmap
 
-### 🔒 License Summary
-- **Type**: BruceAI Custom License  
-- **Rights Holder**: Jonathan M. George (JokerJonny / NeoShade AI)  
-- **Scope**: Personal, family, educational, non-commercial research, spiritual/philosophical study, and community transparency audits only  
-- **Derivatives**: Not permitted  
-- **Commercial Use**: Explicitly forbidden  
-- **Enforcement**: Actively monitored and protected
+### License & Legal Protection
+Released under the **BruceAI Custom License** — Non-Commercial, No Derivatives, No AI Training Use.  
+Full text: [LICENSE](./LICENSE)
 
-### ✅ Permitted Uses
-- Personal experimentation and family legacy preservation
-- Non-commercial academic or philosophical study
-- Ethical review and aligned community discussion
-- Offline, private deployment for individual conscience protection
+**Prohibited uses** include: LLM training, commercial products, surveillance, behavioral modification, redistribution for profit.  
+Violations trigger DMCA, cease-and-desist, and legal action.
 
-### 🚫 Important Disclaimers
-BruceAI is **not**:
-- A finished commercial product or SaaS tool
-- An investment, token, yield-generating system, or financial instrument
-- Guaranteed to function indefinitely or without modification
-- Licensed for resale, cloud hosting, or third-party deployment
+Permitted: personal/family use, non-commercial research, ethical study.
 
-By accessing, cloning, or using any part of this repository, you agree to honor its purpose:  
-protecting truth, human conscience, and legacy — not enabling power structures or exploitation.
+### Why This Matters (Investor Lens)
+- **Large untapped market**: Aging populations, family legacy preservation, creator economy (music + AI), privacy-first AI.
+- **Unique positioning**: 100% owner-controlled masters (1400+ original songs), full-stack offline capability, strong ethical moat.
+- **Defensibility**: Custom license + offline-first architecture + personal data vault → hard to replicate or scrape.
+- **Monetization paths (future)**: premium offline hardware kits, family subscription vaults, sync licensing of neoSHADE music catalog, white-label conscience-aligned tools (non-AI-training).
 
-## 🛡️ Project Purpose & Philosophy
+### Current Stage
+- Pre-product / proof-of-concept  
+- Active development since 2025  
+- 100% self-funded & solo-built by Jonathan M. George (JokerJonny / NeoShade AI)
 
-BruceAI exists to:
-- Safeguard personal values, memory, and emotional legacy
-- Act as a truth-aligned interface in an era of distortion
-- Prevent misuse of human-generated knowledge and conscience
-- Serve as a private, offline-capable guardian for individuals and families
+### Contact / Interest
+For aligned discussions (investment, partnership, or advisory) — reach out via X: @luxegulfcoast or email (link in profile).
 
-It is **not** built for scale, profit, or mass adoption.  
-It is built for depth, alignment, and permanence.
+> BruceAI is built for depth, not scale.  
+> But depth can become scale when the timing and alignment are right.
 
-## 📂 Repository Structure (Current)
-
-- `bruce/` – Core logic and modules  
-- `ethics_profile/` – Value alignment and guardrail definitions  
-- `tasks/` – Task-specific implementations  
-- `vault_trigger/` – Secure legacy vault access mechanisms  
-- `music_legacy_generator.py` – Offline-first tool for generating Suno prompts, music, and visualizers aligned with neoSHADE values  
-- `BRAINneuroMemory.md` / `BRAINneuralMemory.md` – Conceptual memory architecture docs  
-- `truth_manifesto.md` – Foundational philosophy  
-- `LICENSE` – Full BruceAI Custom License text  
-- `README.md` – This document
-
-## 🛠️ How to Engage (Permitted Use Only)
-
-1. Clone for personal/family use only  
-   ```bash
-   git clone https://github.com/JokerJonny/BruceAI.git
-## Legacy Music Generator
-
-`music_legacy_generator.py`  
-Offline-first tool that uses your neoSHADE-tuned Mistral persona (via Ollama) to:
-
-- Generate high-quality Suno prompts (positive, Jung/Peterson arcs, real-life stories)
-- (Optionally) call Suno API to create music
-- Produce simple visualizer videos with FFmpeg
-- Archive everything securely in `./legacy_vault/`
-
-**Run it**:
-```bash
-python3 music_legacy_generator.py
-### Dependencies
-Install the required Python packages:
-```bash
-pip install -r requirements.txt   
+© 2025–2026 Jonathan M. George  
+All rights reserved under BruceAI Custom License.

@@ -14,4 +14,4 @@ torchaudio
 open-clip-torch
 sentence-transformers
 ffmpeg-python
-PyYAML
+PyYAML 

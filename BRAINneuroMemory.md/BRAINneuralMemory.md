@@ -9,7 +9,7 @@
 
 ## TL;DR — No Fluff
 
-* **Store:** *Episodes* (what / where / when) · *Semantics* (facts / relations) · *Skills* (policies) · *Valuation* (salience / reward)
+* **Store:** *Episodes* (what / where / when) · *Semantics* (facts / relations) · *Skills* (policies) · *Valuation* (salience / reward) 
 * **Retrieve:** “Laser Cortex” → vector search → attention pool → graph hops → situation model
 * **Reason / Plan:** in latent space (not tokens) with a lightweight world model; repeated plans → skills (reflex policies)
 * **Energy:** treat compute + latency + cost as ATP; planner budgets for it

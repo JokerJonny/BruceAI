@@ -1,29 +1,71 @@
 BruceAI
-<p align="center"> <img src="https://neo-shade.com/wp-content/uploads/2026/03/github-banner-scaled.jpg" width="100%"> </p> <p align="center"> <b>Conscience-Aligned AI Interface for Legacy Preservation</b> </p> <p align="center"> 🧠 Offline AI • 🔒 Privacy-First • 🏛 Legacy Systems </p>
+<p align="center"> <img src="https://neo-shade.com/wp-content/uploads/2026/03/github-banner-scaled.jpg" width="100%"> </p> <p align="center"> <b>Conscience-Aligned AI Interface for Legacy Preservation</b> </p> <p align="center"> 🧠 Offline AI • 🔒 Privacy-First • 🏛 Legacy Systems </p> <p align="center">
+
+
+
+
+
+
+
+
+
+
+</p>
 🧭 Why BruceAI Exists
 
-Modern AI systems focus on:
+Modern AI systems are largely built around:
 
-• 📊 Data extraction
-• 🎯 Behavioral prediction
-• 📢 Advertising optimization
-• 💰 Mass-scale monetization
+• 📊 data extraction
+• 🎯 behavioral prediction
+• 📢 advertising optimization
+• 💰 mass-scale monetization
 
-But they rarely protect what matters most:
+Yet they rarely focus on protecting what matters most:
 
 • ❤️ personal truth
 • 🧠 emotional memory
 • 👨‍👩‍👧 family legacy
 • 📜 human values
 
-BruceAI was created as an alternative model.
+BruceAI was created as a different model.
 
 Instead of extracting human experience, BruceAI is designed to preserve it.
+
+The goal is to create an AI system capable of archiving:
+
+• music
+• knowledge
+• stories
+• reflections
+• personal growth
+
+so they can be passed forward across generations.
+
+🧠 BruceAI Architecture
+<p align="center"> <img src="https://neo-shade.com/wp-content/uploads/2026/03/mermaid-diagram-scaled.jpg" width="800"> </p>
+
+The BruceAI system operates as a legacy creation pipeline:
+
+User Idea
+↓
+BruceAI Persona (LLM reasoning layer)
+↓
+Music Prompt Generation
+↓
+Suno Audio Creation
+↓
+Visualizer Generation
+↓
+Legacy Vault Archive
+↓
+BruceAI Knowledge Memory System
+
+The architecture focuses on creation, preservation, and long-term continuity.
 
 🧠 Core Philosophy
 ❤️ Values-First AI
 
-BruceAI responses are aligned with:
+BruceAI generation and responses are aligned with:
 
 • truth
 • resilience
@@ -31,7 +73,7 @@ BruceAI responses are aligned with:
 • love
 • long-term meaning
 
-Influenced by:
+Influences include:
 
 • Carl Jung — shadow integration
 • Jordan Peterson — responsibility & meaning
@@ -40,14 +82,14 @@ Influenced by:
 
 🔒 Privacy & Ownership
 
-BruceAI is built with offline-first architecture.
+BruceAI is designed as offline-first architecture.
 
 Key principles:
 
-• 🖥 Local LLM models
-• 🔌 No cloud dependency
-• 🔐 Encrypted legacy vaults
-• 🧾 Full ownership of personal data
+• 🖥 local LLM models
+• 🔌 no cloud dependency required
+• 🔐 encrypted legacy vault storage
+• 🧾 full ownership of personal data
 
 🏛 Legacy Preservation
 
@@ -63,16 +105,15 @@ BruceAI helps create and archive:
 All stored as digital heirlooms for future generations.
 
 ⚙ Current Capabilities
-<p align="center"> <img src="https://img.shields.io/badge/LLM-Mistral-orange"> <img src="https://img.shields.io/badge/AI-Ollama-blue"> <img src="https://img.shields.io/badge/Music-Suno-purple"> <img src="https://img.shields.io/badge/Video-FFmpeg-green"> <img src="https://img.shields.io/badge/Architecture-Offline-black"> </p>
 
 BruceAI currently includes:
 
 • 🧠 Offline LLM persona using Mistral via Ollama
 • 🎵 neoSHADE-aligned music prompt generation
 • 🎧 Suno music generation integration
-• 🎬 Visualizer video creation with FFmpeg
-• 📦 Automatic legacy vault archiving
-• 🛡 Ethical guardrails via BruceAI Custom License
+• 🎬 visualizer video creation with FFmpeg
+• 📦 automatic legacy vault archiving
+• 🛡 ethical guardrails via BruceAI Custom License
 
 🎵 BruceAI Music Pipeline
 
@@ -106,7 +147,7 @@ Core AI logic modules.
 Legacy vault automation.
 
 📁 ethics_profile/
-AI value alignment definitions.
+Value alignment definitions.
 
 📄 BRAINneuroMemory.md
 Neural-inspired memory architecture.
@@ -119,14 +160,16 @@ Python dependencies.
 
 🚀 Roadmap
 
-Upcoming development directions:
+Planned future development includes:
 
-• 🧠 RAG indexing of 1400+ lyrics archive
-• 🎼 Batch album generation
+• 🧠 RAG indexing of the 1400+ lyrics archive
+• 🎼 batch album generation tools
 • 🗣 Alexa voice triggers for BruceAI
-• 🎨 Local AI album art generation
+• 🎨 local AI album art generation
 • 🔐 encrypted vault backups
 • 🤖 multi-model support (Mistral / Llama / Gemma)
+
+All future features will remain aligned with the BruceAI ethical design philosophy.
 
 ⚖ License
 
@@ -140,12 +183,12 @@ Released under the BruceAI Custom License
 
 ❌ Prohibited Uses
 
-• AI training
+• AI model training
 • commercial resale
 • surveillance systems
 • behavioral manipulation
 
-See LICENSE for full details.
+See the LICENSE file for full details.
 
 👤 Creator
 
@@ -160,7 +203,7 @@ Current focus:
 • offline AI systems
 • ethical AI frameworks
 • music legacy preservation
-• personal knowledge vaults
+• personal knowledge vault architecture
 
 📍 Naples, Florida
 

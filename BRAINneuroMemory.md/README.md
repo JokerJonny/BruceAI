@@ -6,7 +6,7 @@ This repo contains the **BRAIN** blueprint and starter skeleton for BruceAI:
 - **docs/images/** — diagrams (placeholders included)
 
 Start by reading `BruceAI/BRAINneuralMemory.md`.
-
+ 
 ## Quickstart
 ```bash
 python -m venv .venv && source .venv/bin/activate  # or .venv\Scripts\activate on Windows
